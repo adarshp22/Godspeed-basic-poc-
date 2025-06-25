@@ -1,0 +1,15 @@
+{
+  "name": "ai-chatbot",
+  "version": "1.0.0",
+  "description": "AI-powered customer support chatbot",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "godspeed": "2.0.0",
+    "openai": "3.2.1",
+    "redis": "4.1.0",
+    "socket.io": "4.5.1"
+  }
+}
